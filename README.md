@@ -14,6 +14,10 @@ Inverse Kinematic Formula for a 2 DOF Robot Arm (other sources are fine too):
 
 https://www.youtube.com/watch?v=NjAAKruKiQM
 
-Jetson CAN Bus Guide
+Jetson CAN Bus Guide:
 
 https://docs.nvidia.com/jetson/archives/r35.2.1/DeveloperGuide/text/HR/ControllerAreaNetworkCan.html
+
+Video of the arm moving:
+
+https://files.catbox.moe/zp1krs.mp4
